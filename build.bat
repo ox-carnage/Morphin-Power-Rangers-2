@@ -1,1 +1,1 @@
-bass.exe rangers.asm
+tmp\bass.exe rangers.asm
