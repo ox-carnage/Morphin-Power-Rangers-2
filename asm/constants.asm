@@ -20,6 +20,6 @@ constant JAPANESE(7)
 
 // CONTROL CODES
 constant ENDSTRING($FF)
-constant BREAKLINE($FE)
+constant BREAKLINE($000000)
 constant NULL($00)
 constant NEWPAGE($FD)

@@ -14,7 +14,7 @@ macro text(TEXT) {
     end()
 }
 macro intro_text(TEXT) {
-    table "tbl/global.tbl"
+    table "tbl/intro.tbl"
     db {TEXT}
     break_line()
 }

@@ -1,56 +1,80 @@
 
 		
-origin $001FFFE5 // ---> Endereço de onde sera gravado os blocos de textos.
+origin $001FFDC3 // ---> Endereço de onde sera gravado os blocos de textos.
 
 text_intro_01:
-	intro_text("Tempos atrás, o Rei"  					)
-	intro_text("Tsarkon de Cartahena" 					)
-	intro_text("ordenou um"								)
-	intro_text("sangrento ataque na"  					)
-	intro_text("pacifica terra"							)
-	intro_text("de Excalabria."							)
-	end()
+	break_line()
+	db $21
+	intro_text("LONG AGO AND FAR AWAY, A LEGENDARY")
 text_intro_02:
-	intro_text("Embora o povo de"						)	
-	intro_text("Excalabria terem"						)
-	intro_text("lutado bravamente,"						)
-	intro_text("mas no final eles"						)
-	intro_text("acabaram sendo"							)
-	intro_text("esmagados." 							)
-	end()
+	break_line()
+	db $1E
+	intro_text("INTERDIMENSIONAL BEING KNOWN AS")
 text_intro_03:
-	intro_text("Com o seu Castelo em Ruínas,"			)
-	intro_text("o Rei Erick V de Excalabria convocou"	)
-	intro_text("Blade, o seu servo"						)
-	intro_text("mais confiável."						)
-	intro_text("Ele ordenou a Blade"					)
-	intro_text("que escapa-se com o"					)
-	intro_text("seu filho e o anel"						)
-	intro_text("da sabedoria, uma"						)
-	intro_text("relíquia antiga da família"				)
-	end()
+	break_line()
+	db $20
+	intro_text("ZORDON, CAME TO THE CITY OF ANGEL")
 text_intro_04:
-	intro_text("Blade saiu por uma"						)
-	intro_text("passagem secreta"						)
-	intro_text("enquanto que o"							)
-	intro_text("Castelo ardia"							)
-	intro_text("em chamas."								)
-	end()
+	break_line()
+	db $23
+	intro_text("GROVE TO ESTABLISH A VANGUARD IN THE")
 text_intro_05:
-	intro_text("Ele fugiu com o bebe"					)
-	intro_text("para uma aldeia bem"					)
-	intro_text("distante e criou essa"					)
-	intro_text("criança como se fosse"					)
-	intro_text("seu proprio filho."						)
-	end()
+	break_line()
+	db $22
+	intro_text("NEVER ENDING STRUGGLE AGAINST EVIL.")
 text_intro_06:
-	intro_text("Tsarkon jurou com todo"					)
-	intro_text("o seu poder de"							)
-	intro_text("Cartahena que iria"						)
-	intro_text("procurar o Príncipe."					)
-	intro_text("(Dezoito anos se"						)
-	intro_text("passaram desde que Tsarkon"				)
-	intro_text("começou a sua busca...."				)
+	break_line()
+	db $1A
+	intro_text("WITH THE AID OF HIS TRUSTED")
+text_intro_07:
+	break_line()
+	db $23
+	intro_text("ASSISTANT, ALPHA 5, THE NOBLE MASTER")
+text_intro_08:
+	break_line()
+	db $1B
+	intro_text("SOUGHT OUT SIX EXTRAORDINARY")
+text_intro_09:
+	break_line()
+	db $23
+	intro_text("TEENAGERS AND GAVE THEM THE POWER TO")
+text_intro_10:
+	break_line()
+	db $23
+	intro_text("TRANSFORM INTO A SUPERHUMAN FIGHTING")
+text_intro_11:
+	break_line()
+	db $20
+	intro_text("FORCE. IN TIME OF GREAT NEED, THE")
+text_intro_12:
+	break_line()
+	db $1F
+	intro_text("YOUNG HEROES COULD NOW CALL UPON")
+text_intro_13:
+	break_line()
+	db $21
+	intro_text("COLOSSAL ASSAULT VEHICLES KNOWN AS")
+text_intro_14:
+	break_line()
+	db $21
+	intro_text(""ZORDS". WHILE THE IDENTITY OF THE")
+text_intro_15:
+	break_line()
+	db $23
+	intro_text("SIX REMAINED A GUARDED SECRET, THEIR")
+text_intro_16:
+	break_line()
+	db $22
+	intro_text("COURAGEOUS EXPLOITS SOON BECAME THE")
+text_intro_17:
+	break_line()
+	db $20
+	intro_text("STUFF OF LEGEND, EARNING THEM THE")
+text_intro_18:
+	break_line()
+	db $07
+	intro_text("TITLE...")
+		
 	end()
 
 
