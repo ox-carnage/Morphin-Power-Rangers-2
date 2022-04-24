@@ -28,12 +28,13 @@ origin ROM_START
     // ; Includes
     include "asm/macros.asm"
     include "asm/constants.asm"
+    include "asm/pointers.asm"
 
-//if (CONFIG_LANGUAGE == ENGLISH) {
+if (CONFIG_LANGUAGE == ENGLISH) {
 
  include "text/en/intro.asm"
 
-//}
+}
 
 if (CONFIG_LANGUAGE == PORTUGUESE) {
 
@@ -43,10 +44,6 @@ if (CONFIG_LANGUAGE == PORTUGUESE) {
   include "text/br/intro.asm"
  
 }
-
-include "asm/pointers.asm"
-
-
 origin $00000150
     db {CONFIG_ROM_NAME}
 origin $000001A4
