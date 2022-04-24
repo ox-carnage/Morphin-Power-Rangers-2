@@ -35,14 +35,14 @@ origin ROM_START
 
 //}
 
-//if (CONFIG_LANGUAGE == PORTUGUESE) {
+if (CONFIG_LANGUAGE == PORTUGUESE) {
 
     define   CONFIG_ROM_NAME("Mighty Morphin Power Rangers - O Filme")
     define   CONFIG_ROM_REGION("JUE")
   
   include "text/br/intro.asm"
  
-//}
+}
 
 include "asm/pointers.asm"
 
