@@ -17,7 +17,7 @@ output  "bin/Power_Rangers_The_Movie.gen_br.bin",create
 constant CONFIG_LANGUAGE(PORTUGUESE)
 
 define   CONFIG_ROM_NAME("POWER RANGERS 2                              ")
-define   CONFIG_ROM_REGION("U")
+define   CONFIG_ROM_REGION("4")
 define   CONFIG_ROM_SIZE(eof)
 
 
@@ -39,7 +39,7 @@ if (CONFIG_LANGUAGE == ENGLISH) {
 if (CONFIG_LANGUAGE == PORTUGUESE) {
 
     define   CONFIG_ROM_NAME("Mighty Morphin Power Rangers - O Filme")
-    define   CONFIG_ROM_REGION("JUE")
+    define   CONFIG_ROM_REGION("U")
   
   include "text/br/intro.asm"
  
