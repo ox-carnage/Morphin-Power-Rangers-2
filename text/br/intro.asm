@@ -1,13 +1,13 @@
 
 		
-origin $001FFDC3 // ---> Endereço de onde sera gravado os blocos de textos.
+origin $001FF110 // ---> Endereço de onde sera gravado os blocos de textos.
 
 text_intro_01:
-	break_line()
+	dw $00
 	db $21
-	intro_text("LONG AGO AND FAR AWAY, A LEGENDARY")
+	intro_text("LONG AGO AND FAR AWAY, A LEGENDARY.")
+	end()
 text_intro_02:
-	break_line()
 	db $1E
 	intro_text("INTERDIMENSIONAL BEING KNOWN AS")
 text_intro_03:

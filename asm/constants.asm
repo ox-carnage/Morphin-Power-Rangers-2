@@ -7,7 +7,7 @@ constant PRESS_START_TEXT($1E82D4)
 
 // GAME
 constant ROM_START($0000000)
-constant ROM_END($00100000)
+constant ROM_END($001FFFFF)
 
 // LANGUAGES
 constant ENGLISH(0)
@@ -21,6 +21,6 @@ constant JAPANESE(7)
 
 // CONTROL CODES
 constant ENDSTRING($FF)
-constant BREAKLINE($000000)
+constant BREAKLINE($00)
 constant NULL($00)
 constant NEWPAGE($FD)

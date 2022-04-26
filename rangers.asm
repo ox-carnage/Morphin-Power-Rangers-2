@@ -38,7 +38,7 @@ if (CONFIG_LANGUAGE == ENGLISH) {
 
 if (CONFIG_LANGUAGE == PORTUGUESE) {
 
-    define   CONFIG_ROM_NAME("Mighty Morphin Power Rangers - O Filme")
+    define   CONFIG_ROM_NAME("Power Rangers 2")
     define   CONFIG_ROM_REGION("U")
   
   include "text/br/intro.asm"
@@ -110,6 +110,6 @@ revert_font16x16_hack:
 
 origin $1F6840
 insert font_16x16,"gfx/fonte_16x16.nemesis.smd"
-
+eof:
 
 

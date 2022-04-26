@@ -8,27 +8,9 @@ macro load_registers_from_sp() {
 }
 
 // Control Macros
-macro text(TEXT) {
-    table "tbl/global.tbl"
-    db {TEXT}
-    end()
-}
+
 macro intro_text(TEXT) {
     table "tbl/intro.tbl"
-    db {TEXT}
-    break_line()
-}
-macro menu_text(TEXT) {
-    table "tbl/menus.tbl"
-    db {TEXT}
-    break_line()
-}
-macro menu_textspeed(TEXT) {
-    table "tbl/menus.tbl"
-    db {TEXT}
-}
-macro dialogue_text(TEXT) {
-    table "tbl/global.tbl"
     db {TEXT}
     break_line()
 }
@@ -36,7 +18,7 @@ macro end() {
     db ENDSTRING
 }
 macro break_line() {
-    db BREAKLINE
+    dl BREAKLINE
 }
 macro new_page() {
     db NEWPAGE
