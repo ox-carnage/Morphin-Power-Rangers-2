@@ -12,13 +12,14 @@ macro load_registers_from_sp() {
 macro intro_text(TEXT) {
     table "tbl/intro.tbl"
     db {TEXT}
+    db $00
     break_line()
 }
 macro end() {
     db ENDSTRING
 }
 macro break_line() {
-    dl BREAKLINE
+    dw BREAKLINE
 }
 macro new_page() {
     db NEWPAGE

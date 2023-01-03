@@ -7,7 +7,7 @@ constant PRESS_START_TEXT($1E82D4)
 
 // GAME
 constant ROM_START($0000000)
-constant ROM_END($001FFFFF)
+constant ROM_END($0020021D)
 
 // LANGUAGES
 constant ENGLISH(0)

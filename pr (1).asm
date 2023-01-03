@@ -1,8 +1,7 @@
-
 arch    md.cpu
 endian  msb
 
-output  "bin/pr_br.gen",create
+output  "pr_br.gen",create
 insert  "pr.gen"
 
 constant VDP_DATA($C00000)
@@ -101,3 +100,5 @@ revert_font16x16_hack_2:
 origin $1F6840
 insert font_16x16,"gfx/fonte_16x16.nemesis.smd"
 
+origin $1E8870
+insert intro_text,"intro_text.bin"
