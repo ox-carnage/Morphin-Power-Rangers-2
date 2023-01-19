@@ -15,7 +15,7 @@ text_intro_03:
 	intro_text("ZORDON, CAME TO THE CITY OF ANGEL")
 text_intro_04:
 	db $23
-	intro_text("GROVE TO ESTABLISH A VANGUARD IN THE.")
+	intro_text("GROVE TO ESTABLISH A VANGUARD IN THE")
 text_intro_05:
 	db $22
 	intro_text("NEVER ENDING STRUGGLE AGAINST EVIL.")
