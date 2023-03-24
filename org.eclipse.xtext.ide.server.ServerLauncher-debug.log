@@ -824,3 +824,916 @@ Xtext Language Server has been started.
   }
 }
 213711 [pool-1-thread-2] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log",
+        "type": 2
+      }
+    ]
+  }
+}
+214868 [pool-1-thread-2] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm",
+        "type": 1
+      }
+    ]
+  }
+}
+254774 [pool-1-thread-2] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/text/br/intro.asm",
+        "type": 1
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tbl/Intro.tbl",
+        "type": 1
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tbl/cutscenes.tbl",
+        "type": 1
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/text/en/intro.asm",
+        "type": 1
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/text/br/intro.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+370905 [pool-1-thread-3] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/text/en/intro.asm, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/text/br/intro.asm, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tbl/cutscenes.tbl, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tbl/Intro.tbl].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 1
+      }
+    ]
+  }
+}
+390343 [pool-1-thread-3] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/constants.asm",
+        "type": 1
+      }
+    ]
+  }
+}
+411012 [pool-1-thread-3] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/constants.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/pointers.asm",
+        "type": 1
+      }
+    ]
+  }
+}
+424900 [pool-1-thread-3] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/pointers.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock",
+        "type": 1
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock",
+        "type": 3
+      }
+    ]
+  }
+}
+462707 [pool-1-thread-3] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock",
+        "type": 1
+      }
+    ]
+  }
+}
+514074 [pool-1-thread-3] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log",
+        "type": 2
+      }
+    ]
+  }
+}
+514608 [pool-1-thread-3] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock",
+        "type": 3
+      }
+    ]
+  }
+}
+515218 [pool-1-thread-3] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log",
+        "type": 2
+      }
+    ]
+  }
+}
+515651 [pool-1-thread-3] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock",
+        "type": 1
+      }
+    ]
+  }
+}
+541556 [pool-1-thread-3] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock",
+        "type": 3
+      }
+    ]
+  }
+}
+542073 [pool-1-thread-3] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock], Changed : [].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tmp/Mighty%20Morphin%20Power%20Rangers%20-%20The%20Movie%20%28U%29%20%5B%21%5D.bin",
+        "type": 1
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tmp/Mighty%20Morphin%20Power%20Rangers%20-%20The%20Movie%20%28U%29%20%5B%21%5D.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+630166 [pool-1-thread-4] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tmp/Mighty%20Morphin%20Power%20Rangers%20-%20The%20Movie%20%28U%29%20%5B%21%5D.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tmp/Mighty%20Morphin%20Power%20Rangers%20-%20The%20Movie%20%28U%29%20%5B%21%5D.zip",
+        "type": 3
+      }
+    ]
+  }
+}
+635174 [pool-1-thread-4] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tmp/Mighty%20Morphin%20Power%20Rangers%20-%20The%20Movie%20%28U%29%20%5B%21%5D.zip], Changed : [].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20-%20The%20Movie%20%28U%29%20%5B%21%5D.bin",
+        "type": 1
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20-%20The%20Movie%20%28U%29%20%5B%21%5D.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+645154 [pool-1-thread-4] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20-%20The%20Movie%20%28U%29%20%5B%21%5D.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+745110 [pool-1-thread-5] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 1
+      }
+    ]
+  }
+}
+752964 [pool-1-thread-5] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/constants.asm",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/constants.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+862843 [pool-1-thread-6] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/constants.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+867591 [pool-1-thread-6] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+899124 [pool-1-thread-6] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+906483 [pool-1-thread-6] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+963087 [pool-1-thread-6] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1029284 [pool-1-thread-7] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1094049 [pool-1-thread-8] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1101939 [pool-1-thread-8] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1142147 [pool-1-thread-8] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1170891 [pool-1-thread-8] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1175912 [pool-1-thread-8] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1234936 [pool-1-thread-8] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1235615 [pool-1-thread-8] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1239862 [pool-1-thread-8] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1257970 [pool-1-thread-8] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/constants.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1351287 [pool-1-thread-9] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/constants.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/constants.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1351629 [pool-1-thread-9] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/constants.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1357603 [pool-1-thread-9] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1390590 [pool-1-thread-9] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tmp/backup/tbl/global.tbl",
+        "type": 1
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tmp/backup/tbl/global.tbl",
+        "type": 2
+      }
+    ]
+  }
+}
+1522925 [pool-1-thread-10] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/tmp/backup/tbl/global.tbl].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1552755 [pool-1-thread-10] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1563302 [pool-1-thread-10] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1648224 [pool-1-thread-11] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1652969 [pool-1-thread-11] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1674103 [pool-1-thread-11] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1718929 [pool-1-thread-11] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1759769 [pool-1-thread-11] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1761082 [pool-1-thread-11] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1765010 [pool-1-thread-11] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1807161 [pool-1-thread-11] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1811969 [pool-1-thread-11] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1889426 [pool-1-thread-12] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/power.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1894469 [pool-1-thread-12] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/bin/Mighty%20Morphin%20Power%20Rangers%20BR.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+1916331 [pool-1-thread-12] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/asm/macros.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/SMD-Strider/bin/strider_br.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+1998781 [pool-1-thread-13] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/SMD-Strider/bin/strider_br.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/SMD-Strider/strider.asm",
+        "type": 2
+      }
+    ]
+  }
+}
+2050929 [pool-1-thread-13] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/SMD-Strider/strider.asm].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/SMD-Strider/bin/strider_br.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/SMD-Strider/bin/strider_br.bin",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/SMD-Strider/bin/strider_br.bin",
+        "type": 2
+      }
+    ]
+  }
+}
+2103651 [pool-1-thread-13] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/SMD-Strider/bin/strider_br.bin].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.vscode/extensions.json",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Elemental%20Master/.vscode/extensions.json",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Sword%20of%20Vermillion/Sword-of-Vermillion/.vscode/extensions.json",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/The%20Pirates%20of%20Dark%20Water/.vscode/extensions.json",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Spider-Man%20vs%20The%20Kingpin/.vscode/extensions.json",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/SMD-Strider/.vscode/extensions.json",
+        "type": 2
+      }
+    ]
+  }
+}
+4140726 [pool-1-thread-14] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Elemental%20Master/.vscode/extensions.json, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Sword%20of%20Vermillion/Sword-of-Vermillion/.vscode/extensions.json, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/The%20Pirates%20of%20Dark%20Water/.vscode/extensions.json, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Spider-Man%20vs%20The%20Kingpin/.vscode/extensions.json, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/SMD-Strider/.vscode/extensions.json].
+4140727 [pool-1-thread-14] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.vscode/extensions.json].
