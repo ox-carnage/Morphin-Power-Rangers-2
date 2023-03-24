@@ -790,3 +790,37 @@ Xtext Language Server has been started.
   }
 }
 212836 [pool-1-thread-2] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log",
+        "type": 2
+      }
+    ]
+  }
+}
+213228 [pool-1-thread-2] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log].
+{
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock",
+        "type": 1
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log",
+        "type": 2
+      },
+      {
+        "uri": "file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock",
+        "type": 3
+      }
+    ]
+  }
+}
+213711 [pool-1-thread-2] INFO      org.eclipse.xtext.build.Indexer  - Creating Deltas for changes. Deleted : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock], Changed : [file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/org.eclipse.xtext.ide.server.ServerLauncher-debug.log, file:///g%3A/Romhack/Tradu%C3%A7%C3%B5es%20em%20Andamento/Mega/Morphin-Power-Rangers-2/.git/index.lock].
